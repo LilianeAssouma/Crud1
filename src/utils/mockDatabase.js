@@ -1,4 +1,4 @@
-let newsDatabase= [  
+let database= [  
     {
      id:1,
      title:"MTN global graduate program",
@@ -11,4 +11,4 @@ let newsDatabase= [
     },
 
  ];
- module.exports=newsDatabase;
+export default database;
